@@ -120,9 +120,7 @@ defaults write org.p0deje.Maccy clipboardCheckInterval 0.1 # 100 ms
 
 #### Conflicts with other apps
 
-Some mouse utilities may enable click-through for Maccy (e.g. BetterMouse "Left click-through"), which can prevent auto paste from working. Disable click-through for Maccy in the utility settings (see issue #1255 for details).
-
-- BetterMouse: go to Exceptions, add Maccy, and make sure "Left click-through" is disabled.
+Some mouse utilities may enable click-through for Maccy (e.g. BetterMouse "Left click-through"), which can prevent auto paste from working. Disable click-through for Maccy in the utility settings (see [issue #1255](https://github.com/p0deje/Maccy/issues/1255) for details).
 
 ### When assigning a hotkey to open Maccy, it says that this hotkey is already used in some system setting.
 
